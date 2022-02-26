@@ -8,4 +8,4 @@
 
 This site can be found at: [https://Emmanuel-Fofeyin.github.io/ICS2O-Unit1-03-HTML](https://Emmanuel-Fofeyin.github.io/ICS2O-Unit1-03-HTML)
 
-This site can be found at: [https://Emmanuel-Fofeyin.github.io/ICS2O-Unit1-03-HTML](https://Emmanuel-Fofeyin.github.io/ICS2O-Unit1-03-HTML/cities.html)
+This cities site can be found at: [https://Emmanuel-Fofeyin.github.io/ICS2O-Unit1-03-HTML](https://Emmanuel-Fofeyin.github.io/ICS2O-Unit1-03-HTML/cities.html)
